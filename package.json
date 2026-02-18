@@ -1,6 +1,6 @@
 {
-    "description": "bmbtech-sessions",
-    "main": "./bmb.js",
+    "description": "popkid-sessions",
+    "main": "./popkid.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
